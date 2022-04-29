@@ -1,0 +1,15 @@
+Library/
+Logs/
+Middle16APK_BurstDebugInformation_DoNotShip/
+obj/
+UserSettings/
+*.csproj
+*.apk
+*.sln
+!Assets/
+!Packages/
+!ProjectSettings/
+!WwiseTemp_WwiseProject/
+!WwiseUnityIntegration_Android_Src.zip
+!WwiseUnityIntegration_Mac_Src.zip
+!WwiseUnityIntegration_Windows_Src.zip
